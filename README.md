@@ -27,10 +27,9 @@ _以下表格内顺序均按照有效文字中首字母A-Z顺序_
 | - | - | - | -|
 | [Ink Canvas](https://github.com/WXRIW/Ink-Canvas) | [WXRIW](https://github.com/WXRIW) | 幻灯片批注、全屏画板和课堂工具| 支持压感 |
 | [Ink Canvas Artistry](https://github.com/ChangSakura/Ink-Canvas)| [ChangSakura](https://github.com/ChangSakura) | Ink Canvas 的衍生版本 | 窗口可收纳到屏幕侧边 |
-| [InkCanvasForClass](https://gitea.bliemhax.com/kriastans/InkCanvasForClass) | [Dubi906w](https://github.com/kriastans) | Ink Canvas For Annotation 的修改版本 | 开发中 |
-| [智绘教Inkeys](https://github.com/Alan-CRL/Intelligent-Drawing-Teaching) | [AlanCRL](https://github.com/Alan-CRL) | 桌面画板、幻灯片批注和教学实用工具 |  |
+| [InkCanvasForClass](https://gitea.bliemhax.com/kriastans/InkCanvasForClass) | [Dubi906w](https://github.com/kriastans) | Ink Canvas For Annotation 的修改版本 | 开发中，另有Github仓库[ICC](https://github.com/kriastans/InkCanvasForClass) |
 | [Inkways](https://inkore.net/products/inkways) | [iNKORE-NET](https://github.com/iNKORE-NET) | 幻灯片批注、多页画布编辑器和黑板 | 详见 [Inkways](https://inkore.net/products/inkways/) 官网 |
-
+| [智绘教Inkeys](https://github.com/Alan-CRL/Intelligent-Drawing-Teaching) | [AlanCRL](https://github.com/Alan-CRL) | 桌面画板、幻灯片批注和教学实用工具 |  |
 ## 信息展示
 
 | 名称 | 开发者 | 功能说明 | 备注 |
