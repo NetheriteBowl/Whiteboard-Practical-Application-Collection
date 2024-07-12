@@ -13,7 +13,7 @@ _Notice：本页面中 软件 特指 应用程序_
 
 1. 若发现任何 错误/过时 信息，请通过添加 `Issue` 使我知晓。点击标签快速发起 `Issue` ：https://github.com/NetheriteBowl/Whiteboard-Practical-Application-Collection/labels/%E9%94%99%E8%AF%AF/new https://github.com/NetheriteBowl/Whiteboard-Practical-Application-Collection/labels/%E8%BF%87%E6%97%B6/new
 
-   当然，您也可以自行创建 `Pull` 修改（我**尽量**每周查看）。
+   当然，您也可以自行创建 `Pull` 修改。
 2. 欢迎添加内容！请创建 `Pull` ，按照表格格式添加。
 3. 对于软件本体的错误，应在正确途径报告，而不是在本仓库发起 `Issue` 。
 
