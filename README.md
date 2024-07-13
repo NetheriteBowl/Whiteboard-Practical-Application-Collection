@@ -3,6 +3,8 @@
 # 白板大屏实用软件合集
 ### Whiteboard Practical Application Collection
 
+该项目灵感来自Hello8693DSZ的[Awesome-Whiteboard](https://github.com/hello8693DSZ/awesome-whiteboard)
+
 _Notice：本页面中 软件 特指 应用程序_
 </div>
 
