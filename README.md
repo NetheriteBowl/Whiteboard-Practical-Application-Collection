@@ -1,7 +1,6 @@
 > [!WARNING]
->_该项目已于2024年5月6日停止维护，请前往[Awesome-Iwb](https://github.com/Awesome-Iwb/Awesome-Iwb)以获取仍在维护的合集_
+>_该项目已于2024年5月6日停止维护，您可以前往[Awesome-Iwb](https://github.com/Awesome-Iwb/Awesome-Iwb)以获取仍在维护的合集_
 
-</br>
 </br>
 </br>
 <div align="center">
@@ -18,7 +17,7 @@ _Notice：本页面中 软件 特指 应用程序_
 
 ## 一些值得注意的：
 
-1. 若发现任何 错误/过时 信息，请通过添加 `Issue` 使我知晓。点击标签快速发起 `Issue` ：https://github.com/NetheriteBowl/Whiteboard-Practical-Application-Collection/labels/%E9%94%99%E8%AF%AF/new
+1. 若发现任何 错误/过时 信息，请通过添加 `Issue` 使我知晓。点击标签快速发起 `Issue` ：https://github.com/NetheriteBowl/Whiteboard-Practical-Application-Collection/labels/%E9%94%99%E8%AF%AF https://github.com/NetheriteBowl/Whiteboard-Practical-Application-Collection/labels/%E8%BF%87%E6%97%B6
 
    当然，您也可以自行创建 `Pull` 修改（我**尽量**每周查看）。
 2. 欢迎添加内容！请创建 `Pull` ，按照表格格式添加。
